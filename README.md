@@ -1,2 +1,2 @@
 # Zuri-javascript-project
- Zuri javascript project
+ # https://ideologis.github.io/Zuri-javascript-project/
